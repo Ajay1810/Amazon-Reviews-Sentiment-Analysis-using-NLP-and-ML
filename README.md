@@ -2,7 +2,7 @@
 Classifying a review as Positive or Negative by training the model using NLP technique like Tf-Idf vectorizer, 
 then training the model using Logistic Regression Classification algorithm to predict the nature of the review.
 
-There are files in this project
+There are 4 files in this project
 1. data_transform.py - Which is used to transform the data from JSON format to usable CSV format for further usage of the data.
 
 2. model.py - In this file the CSV is further subdivided into Training and Testing data with Features and Labels. Then using the Tf-Idf vectorizer technique of NLP words
